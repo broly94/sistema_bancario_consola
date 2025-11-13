@@ -1,0 +1,20 @@
+C:\Users\joaqu\OneDrive\Documentos\SharpDevelop Projects\sistema_bancario_unaj\sistema_bancario\obj\Debug\sistema_bancario.csprojResolveAssemblyReference.cache
+C:\Users\joaqu\OneDrive\Documentos\SharpDevelop Projects\sistema_bancario_unaj\sistema_bancario\bin\Debug\sistema_bancario.exe
+C:\Users\joaqu\OneDrive\Documentos\SharpDevelop Projects\sistema_bancario_unaj\sistema_bancario\bin\Debug\sistema_bancario.pdb
+C:\Users\joaqu\OneDrive\Documentos\SharpDevelop Projects\sistema_bancario_unaj\sistema_bancario\obj\Debug\sistema_bancario.exe
+C:\Users\joaqu\OneDrive\Documentos\SharpDevelop Projects\sistema_bancario_unaj\sistema_bancario\obj\Debug\sistema_bancario.pdb
+C:\Users\matt_\Downloads\sistema_bancario_consola-main\sistema_bancario\bin\Debug\sistema_bancario.exe
+C:\Users\matt_\Downloads\sistema_bancario_consola-main\sistema_bancario\bin\Debug\sistema_bancario.pdb
+C:\Users\matt_\Downloads\sistema_bancario_consola-main\sistema_bancario\obj\Debug\sistema_bancario.csprojResolveAssemblyReference.cache
+C:\Users\matt_\Downloads\sistema_bancario_consola-main\sistema_bancario\obj\Debug\sistema_bancario.exe
+C:\Users\matt_\Downloads\sistema_bancario_consola-main\sistema_bancario\obj\Debug\sistema_bancario.pdb
+C:\Users\joaqu\OneDrive\Escritorio\sistema_bancario_consola-main\sistema_bancario\obj\Debug\sistema_bancario.csprojResolveAssemblyReference.cache
+C:\Users\joaqu\OneDrive\Escritorio\sistema_bancario_consola-main\sistema_bancario\obj\Debug\sistema_bancario.exe
+C:\Users\joaqu\OneDrive\Escritorio\sistema_bancario_consola-main\sistema_bancario\bin\Debug\sistema_bancario.exe
+C:\Users\joaqu\OneDrive\Escritorio\sistema_bancario_consola-main\sistema_bancario\bin\Debug\sistema_bancario.pdb
+C:\Users\joaqu\OneDrive\Escritorio\sistema_bancario_consola-main\sistema_bancario\obj\Debug\sistema_bancario.pdb
+E:\Programacion\sistema_bancario_consola-main\sistema_bancario\bin\Debug\sistema_bancario.exe
+E:\Programacion\sistema_bancario_consola-main\sistema_bancario\bin\Debug\sistema_bancario.pdb
+E:\Programacion\sistema_bancario_consola-main\sistema_bancario\obj\Debug\sistema_bancario.csprojResolveAssemblyReference.cache
+E:\Programacion\sistema_bancario_consola-main\sistema_bancario\obj\Debug\sistema_bancario.exe
+E:\Programacion\sistema_bancario_consola-main\sistema_bancario\obj\Debug\sistema_bancario.pdb
